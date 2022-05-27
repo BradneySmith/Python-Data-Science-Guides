@@ -7,7 +7,9 @@ Python is one of, if not the most, popular languages for data science today, and
 &nbsp;
 
 
-## NumPy - Numerical library for performing fast computations and linear algebra operations
+## NumPy
+### A numerical library for performing fast computations and linear algebra operations
+
 
 1
 
@@ -16,7 +18,8 @@ Python is one of, if not the most, popular languages for data science today, and
 &nbsp;
 
 
-## Pandas - Data Science library for working with tabular data
+## Pandas
+### A data Science library for working with tabular data
 
 1 - [Creating DataFrames](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/1%20-%20Creating%20DataFrames.ipynb)
 
@@ -29,7 +32,8 @@ Python is one of, if not the most, popular languages for data science today, and
 &nbsp;
 
 
-## Matplotlib - Plotting library for visualising and presenting data
+## Matplotlib
+### Plotting library for visualising and presenting data
 
 1
 
@@ -38,7 +42,8 @@ Python is one of, if not the most, popular languages for data science today, and
 &nbsp;
 
 
-## SciPy - Scientific library with significant statistics capabilities
+## SciPy
+### A scientific library with significant statistics capabilities
 
 1
 
