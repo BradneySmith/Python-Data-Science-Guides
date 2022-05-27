@@ -2,7 +2,7 @@
 
 ## Overview
 
-Python is one of (if not the most) popular languages for data science today, and has a robust collection of third party libraries for working with data. These include numerical and scientific libraries such as NumPy and SciPy, plotting libararies such as Matplotlib and Seaborn, tabular libraries such as Pandas, as well as many others. This repository aims to provide a guide to each of the most commonly-used Python libraries in data science, as well as providing resources to dive deeper into these packages.
+Python is one of, if not the most, popular languages for data science today, and has a robust collection of third party libraries for working with data. These include numerical and scientific libraries such as NumPy and SciPy, plotting libararies such as Matplotlib and Seaborn, tabular libraries such as Pandas, as well as many others. This repository aims to provide a guide to each of the most commonly-used Python libraries in data science, as well as providing resources to dive deeper into these packages.
 
 &nbsp;
 
