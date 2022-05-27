@@ -13,9 +13,9 @@ A numerical library enabling fast computations built using well-optimised C code
 
 &nbsp;
 
-1
+Chapter 1 - In progress
 
-2
+Chapter 2 - In progress
 
 &nbsp;
 
@@ -26,13 +26,13 @@ A data science library for working with tabular data. Pandas is a powerful tool 
 
 &nbsp;
 
-1 - [Creating DataFrames](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/1%20-%20Creating%20DataFrames.ipynb)
+Chapter 1 - [Creating DataFrames](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/1%20-%20Creating%20DataFrames.ipynb)
 
-2 - [Indexing Rows and Columns]([https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Basic%20Data%20Visualisation.ipynb](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/2%20-%20Indexing%20Rows%20and%20Columns.ipynb))
+Chapter 2 - [Indexing Rows and Columns]([https://github.com/BradneySmith/Statistics-for-Machine-Learning/blob/main/Chapter%201%20-%20Statistics%20Fundamentals/1.2%20-%20Basic%20Data%20Visualisation.ipynb](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/2%20-%20Indexing%20Rows%20and%20Columns.ipynb)
 
-3 - Data Cleaning
+Chapter 3 - Data Cleaning
 
-4 - Sorting and Filtering Data
+Chapter 4 - Sorting and Filtering Data
 
 &nbsp;
 
@@ -43,9 +43,9 @@ A plotting library for visualising and presenting data based on the plotting sty
 
 &nbsp;
 
-1
+Chapter 1 - In progress
 
-2
+Chapter 2 - In progress
 
 &nbsp;
 
@@ -53,8 +53,8 @@ A plotting library for visualising and presenting data based on the plotting sty
 ## SciPy
 ### A scientific library with significant statistics capabilities
 
-1
+Chapter 1 - In progress
 
-2
+Chapter 2 - In progress
 
 &nbsp;
