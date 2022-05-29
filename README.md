@@ -26,13 +26,13 @@ A data science library for working with tabular data. Pandas is a powerful tool 
 
 &nbsp;
 
-[Chapter 1 - Creating DataFrames](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/1%20-%20Creating%20DataFrames.ipynb)
+[Chapter 1 - Creating DataFrames](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/Chapter%201%20-%20Creating%20DataFrames.ipynb)
 
-[Chapter 2 - Indexing Rows and Columns](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/2%20-%20Indexing%20Rows%20and%20Columns.ipynb)
+[Chapter 2 - Indexing Rows and Columns](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/Chapter%202%20-%20Indexing%20Rows%20and%20Columns.ipynb)
 
 Chapter 3 - Data Cleaning
 
-Chapter 4 - Sorting and Filtering Data
+[Chapter 4 - Sorting and Filtering Data](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/Chapter%204%20-%20Sorting%20Data.ipynb)
 
 &nbsp;
 
