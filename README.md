@@ -17,7 +17,7 @@ A data science library for working with tabular data. Pandas is a powerful tool 
 
 [Chapter 2 - Indexing Rows and Columns](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/Chapter%202%20-%20Indexing%20Rows%20and%20Columns.ipynb)
 
-Chapter 3 - Data Cleaning
+[Chapter 3 - Data Cleaning](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/Chapter%203%20-%20Data%20Cleaning.ipynb)
 
 [Chapter 4 - Sorting and Filtering Data](https://github.com/BradneySmith/Python-Data-Science-Guides/blob/main/Pandas/Chapter%204%20-%20Sorting%20Data.ipynb)
 
